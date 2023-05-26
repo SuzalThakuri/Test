@@ -1,0 +1,19 @@
+.LOGO{
+    font-weight: 900;
+    cursor: context-menu;
+    margin-right: auto;
+    font-size: 34px;
+    color: #fff;
+}
+
+.LOGO-2{
+    font-weight: 900;
+    cursor: context-menu;
+    text-align: center;
+    position: absolute;
+    top: 38%;
+    left: 44%;
+    letter-spacing: 2px;
+    font-size: 45px;
+    color: #fff;
+}
